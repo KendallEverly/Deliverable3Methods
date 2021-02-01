@@ -14,7 +14,7 @@ namespace Deliverable3Methods
             //read user input
             string input = Console.ReadLine();
             //show message
-            Console.WriteLine("Hello " + input);
+            Console.WriteLine("Hello " + input + "!");
             Console.ReadKey(true);
         }
         //end of main
